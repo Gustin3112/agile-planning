@@ -1,2 +1,2 @@
-# agile-planning
-This repo contains the practice for agile planning using ZenHub
+# Agile-planning
+This repo contains the practices for agile planning using ZenHub
